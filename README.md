@@ -52,7 +52,7 @@
 16.	Создадим новый подкаталог TextFiles в текущем каталоге ```new-itemTextFiles -itemtype directory```      
 ![plot](./screenshots/16.png)      
 
-17. Создайте несколько новых файлов в текущем каталоге: psdemo.txt, 1.txt, 2.txt  
+17. Создайте несколько новых файлов в текущем каталоге: ```psdemo.txt```, ```1.txt```, ```2.txt```  
 ![plot](./screenshots/17.png)      
 
 18.	Скопируем все файлы с расширением ```*.txt``` в подкаталог ```TextFiles```, используя команду ```copy-item```     
